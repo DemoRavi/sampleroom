@@ -47,7 +47,7 @@ public class RoomImplementation {
     public static final String UNKNOWN_DIRECTION = "There isn't a door in that direction (%s)";
     public static final String GO_FORTH = "You head %s";
     public static final String HELLO_ALL = "%s is here";
-    public static final String HELLO_USER = "Welcome to Demo Room!";
+    public static final String HELLO_USER = "Welcome!";
     public static final String GOODBYE_ALL = "%s has gone";
     public static final String GOODBYE_USER = "Bye!";
 
