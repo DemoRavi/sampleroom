@@ -64,3 +64,4 @@ This project was generated using:
 * generator-ibm-service-enablement v0.0.88
 * generator-ibm-cloud-enablement v0.0.98
 * generator-liberty v5.3.3
+# sampleroom
